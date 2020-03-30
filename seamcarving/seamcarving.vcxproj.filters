@@ -27,4 +27,27 @@
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\blocks38X36.ppm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Assets\Fishing175X117.ppm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Assets\Fishing1080X720.ppm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Assets\FishingNeg175X117.ppm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Assets\HJoceanSmall507X285.ppm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Assets\sunset200X125.ppm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Assets\sunset1080X673.ppm">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
